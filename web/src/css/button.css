@@ -1,0 +1,16 @@
+
+button{
+    width: 125px;
+    border: none;
+    outline: none;
+    color: aliceblue;
+    background-color: orangered;
+    cursor: pointer;
+    border-radius: 15px;
+    margin-right: 5px;
+    gap: 7px;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
